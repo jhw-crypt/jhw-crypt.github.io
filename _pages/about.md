@@ -1,15 +1,19 @@
 ---
 permalink: /
-#title: "学术主页"
+title: "个人信息"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+副教授，硕士研究生导师，研究方向为应用密码学与隐私计算、数据安全与AI安全，先后主持国家自然科学基金面上项目/青年基金、河南省优青、博士后特别资助等科研项目10余项，在USENIX Security、ASIACRYPT、IEEE TIFS、IEEE TDSC、IEEE TPDS等会议/期刊上发表论文100余篇，获河南省优秀学术论文二等奖、陕西省高校优秀成果二等奖等学术奖励7项。（邮箱：jhwei@xidian.edu.cn）
 
-个人信息
+
+研究方向
 ======
-副教授，硕导，研究方向为应用密码学与隐私计算、数据安全与AI安全，先后主持国家自然科学基金面上项目/青年基金、河南省优青、博士后特别资助等科研项目10余项，在USENIX Security、ASIACRYPT、IEEE TIFS、IEEE TDSC、IEEE TPDS等会议/期刊上发表论文100余篇，获河南省优秀学术论文二等奖、陕西省高校优秀成果二等奖等学术奖励7项。（邮箱：jhwei@xidian.edu.cn）
+- 应用密码学与隐私计算
+- 数据安全与AI安全
+- 大模型安全
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
