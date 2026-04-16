@@ -41,14 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* 这里的选择器需要根据你实际 HTML 中的类名调整 */
-.nav-link:focus, 
-.nav-link:active,
-.btn:focus,
-.btn:active {
-    background-color: transparent !important; /* 设置背景为透明 */
-    background: none !important;               /* 移除背景渐变或图片 */
-    outline: none !important;                  /* 移除点击时的边框线 */
-    box-shadow: none !important;               /* 移除点击时的阴影 */
-    -webkit-tap-highlight-color: transparent; /* 移除移动端点击时的高亮色 */
-}
