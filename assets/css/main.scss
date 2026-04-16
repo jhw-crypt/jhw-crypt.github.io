@@ -41,6 +41,12 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* 针对导航栏中的链接去掉选中时的背景 */
+.greedy-nav a.site-title, 
+.masthead__menu-item--lg,
+.masthead__menu-item.active a {
+  background-color: transparent !important;
+}
 /* 去掉左侧名字（Site Title）的背景色 */
 .site-title {
   background-color: transparent !important;
