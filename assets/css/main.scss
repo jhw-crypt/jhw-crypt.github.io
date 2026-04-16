@@ -41,30 +41,4 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* 1. 去掉左侧名字（Site Title）的背景色和阴影 */
-.masthead__inner .site-title {
-  background-color: transparent !important;
-  box-shadow: none !important;
-  color: #333 !important; /* 确保文字是深色的 */
-  font-weight: bold;
-}
 
-/* 2. 去掉右侧导航菜单（论文、项目等）在选中和悬停时的背景色 */
-.masthead__menu-item.active a,
-.masthead__menu-item a:hover {
-  background-color: transparent !important;
-  color: #000 !important; /* 选中时文字变黑 */
-  text-decoration: none;  /* 如果不想要下划线可以设为 none */
-}
-
-/* 3. 参考目标网站，给选中的项目加一个简单的下划线效果（可选） */
-.masthead__menu-item.active a {
-  border-bottom: 2px solid #333; 
-  padding-bottom: 4px;
-}
-
-/* 4. 去掉整个导航栏多余的边框感，使其更接近参考网站的极简风 */
-.masthead {
-  border-bottom: 1px solid #f2f3f3; /* 仅保留一条极细的分割线 */
-  background-color: #fff;
-}
