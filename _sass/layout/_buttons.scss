@@ -24,7 +24,6 @@
 
   &:hover {
     background-color: transparent;
-    color: #fff !important;
   }
 
   .icon {
@@ -49,12 +48,11 @@
   /* for dark backgrounds */
 
   &--inverse {
-    color: var(--global-text-color-light) !important;
+    color: transparent;
     border: 1px solid var(--global-border-color) !important; /* override*/
     background-color: transparent;
 
     &:hover {
-      color: #fff !important;
       border-color: transparent;
     }
   }
@@ -62,7 +60,6 @@
   /* light outline */
 
   &--light-outline {
-    border: 1px solid #fff !important; /* override*/
     background-color: transparent;
   }
 
