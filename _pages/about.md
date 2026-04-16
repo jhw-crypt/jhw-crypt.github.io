@@ -5,9 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 
 副教授，硕导，研究方向为应用密码学与隐私计算、数据安全与AI安全，先后主持国家自然科学基金面上项目/青年基金、河南省优青、博士后特别资助等科研项目10余项，在USENIX Security、ASIACRYPT、IEEE TIFS、IEEE TDSC、IEEE TPDS等会议/期刊上发表论文100余篇，获河南省优秀学术论文二等奖、陕西省高校优秀成果二等奖等学术奖励7项。（邮箱：jhwei@xidian.edu.cn）
----
 
 
 基本情况
