@@ -41,3 +41,17 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* 去掉左侧名字（Site Title）的背景色 */
+.site-title {
+  background-color: transparent !important;
+}
+
+/* 如果是导航项的活动状态（Active）背景，也设为透明 */
+.masthead__menu-item.active {
+  background-color: transparent !important;
+}
+
+/* 确保鼠标悬停时也没有灰色背景 */
+.site-title:hover, .masthead__menu-item:hover {
+  background-color: transparent !important;
+}
