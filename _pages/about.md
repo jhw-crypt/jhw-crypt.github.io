@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "魏江宏学术主页"
+# title: "魏江宏学术主页"
 author_profile: true
 redirect_from: 
   - /about/
