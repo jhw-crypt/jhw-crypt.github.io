@@ -41,14 +41,24 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* 完全隐藏整个顶部导航栏 */
+/* 1. 彻底隐藏顶栏并消除它占用的高度空间 */
 .masthead {
   display: none !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
-/* 移除页面顶部因为失去导航栏而可能出现的额外边距（可选） */
-.initial-content {
+/* 2. 让主体内容区上移，消除顶部间距 */
+.initial-content, 
+#main {
   margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* 3. 如果左侧边栏（头像部分）太靠下，也让它上移 */
+.sidebar {
+  margin-top: 20px !important; /* 根据视觉效果微调这个数值 */
 }
 /* 完全隐藏网页底部栏 */
 .page__footer, 
