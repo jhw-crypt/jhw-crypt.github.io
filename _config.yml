@@ -23,7 +23,7 @@ url                      : https://jhw-crypt.github.io # The base hostname & pro
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "魏江宏.png"
   name             : "魏江宏"
  # pronouns         : # example: "she/her"  
   bio              : ""
