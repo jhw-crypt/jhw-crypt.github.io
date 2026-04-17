@@ -52,13 +52,13 @@
 /* 2. 让主体内容区上移，消除顶部间距 */
 .initial-content, 
 #main {
-  margin-top: -78px !important;
+  margin-top: -85px !important;
   padding-top: 0 !important;
 }
 
 /* 3. 如果左侧边栏（头像部分）太靠下，也让它上移 */
 .sidebar {
-  margin-top: -70px !important; /* 根据视觉效果微调这个数值 */
+  margin-top: -80px !important; /* 根据视觉效果微调这个数值 */
 }
 /* 完全隐藏网页底部栏 */
 .page__footer, 
