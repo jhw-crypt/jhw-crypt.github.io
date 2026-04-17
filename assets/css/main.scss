@@ -1,22 +1,6 @@
 ---
 ---
-/* 去除顶部标题栏的背景颜色 */
-.greedy-nav .site-title {
-  background-color: transparent !important; /* 设置背景为透明 */
-  box-shadow: none !important;              /* 去除可能的阴影 */
-  border: none !important;                  /* 去除边框 */
-}
 
-/* 如果你想调整标题文字的颜色（可选） */
-.greedy-nav .site-title {
-  color: #333 !important; /* 将 #333 换成你想要的颜色代码 */
-}
-
-/* 去除鼠标悬停时的背景颜色变化 */
-.greedy-nav .site-title:hover {
-  background-color: transparent !important;
-  text-decoration: underline; /* 悬停时改为下划线提示（可选） */
-}
 /*
  * This file controls what is imported from /_sass
  *
@@ -58,3 +42,21 @@
     "vendor/font-awesome/brands"
 ;
 
+/* 强制去除顶部标题的所有背景颜色和阴影 */
+.masthead__inner .site-title,
+.masthead__inner .site-title:visited,
+.greedy-nav .site-title,
+.greedy-nav a.site-title {
+  background: none !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding-left: 0 !important; /* 可选：去掉左侧边距让文字靠最左 */
+}
+
+/* 针对鼠标悬停状态也做透明处理 */
+.masthead__inner .site-title:hover,
+.greedy-nav .site-title:hover {
+  background-color: transparent !important;
+  text-decoration: underline !important; /* 悬停时改为下划线（可选） */
+}
