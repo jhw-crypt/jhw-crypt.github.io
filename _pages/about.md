@@ -25,15 +25,9 @@ redirect_from:
 代表论文
 ======
 完整论文列表见[Google学术主页](https://scholar.google.com/citations?user=UK-6A30AAAAJ&hl)或[ORCID主页](https://orcid.org/0000-0002-0286-7973)。
-@article{Wei22,
-  author       = {Jianghong Wei and Xiaofeng Chen and Jianfeng Wang and Xingming Hu and Jianfeng Ma},
-  title        = {Enabling (End-to-End) Encrypted Cloud Emails With Practical Forward Secrecy},
-  journal      = {IEEE Transactions on Dependable and Secure Computing},
-  volume       = {19},
-  number       = {4},
-  pages        = {2318--2332},
-  year         = {2022}
-}
+
+bibliography: refs.bib
+
 - 网络空间安全
 - 软件工程
 - 电子信息
