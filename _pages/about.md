@@ -22,8 +22,15 @@ redirect_from:
 - 软件工程
 - 电子信息
 
+科研项目
+======
+- 博士后科学基金面上资助项目：属性基加密体制实用化关键问题研究，项目编号：2020M673348。
+- 博士后科学基金特别资助项目（站中）：面向安全即时通讯的认证与密钥协商机制研究，项目编号：2021T140531。
+- 国家自然科学基金面上项目：面向安全即时通讯的关键密码技术研究，项目编号：62172434。
+- 国家自然科学基金面上项目：面向去中心化场景的认证数据结构关键技术研究，项目编号：62572483。
+- 河南省优秀青年科学基金项目：云环境下异步认证密钥交换协议研究，项目编号：232300421099。
 
-代表论文
+学术论文
 ======
 完整论文列表见[Google学术主页](https://scholar.google.com/citations?user=UK-6A30AAAAJ&hl)或[ORCID主页](https://orcid.org/0000-0002-0286-7973)。#表示通信作者。
 - **Jianghong Wei**, Guohua Tian, Ding Wang, Fuchun Guo, Willy Susilo, Xiaofeng Chen. Pixel+ and Pixel++: Compact and Efficient Forward-Secure Multi-Signatures for PoS Blockchain Consensus. _USENIX Security_ 2024, 2024, pp: 6237-6254. (**CCF-A类，四大安全顶会之一**)
