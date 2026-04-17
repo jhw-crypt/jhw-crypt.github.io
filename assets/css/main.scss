@@ -26,7 +26,7 @@
     "layout/buttons",
     "layout/notices",
     "layout/masthead",
-    # "layout/navigation",
+    "layout/navigation",
     "layout/footer",
     "syntax",
 
@@ -41,20 +41,4 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* 去除顶部标题栏的背景颜色 */
-.greedy-nav .site-title {
-  background-color: transparent !important; /* 设置背景为透明 */
-  box-shadow: none !important;              /* 去除可能的阴影 */
-  border: none !important;                  /* 去除边框 */
-}
 
-/* 如果你想调整标题文字的颜色（可选） */
-.greedy-nav .site-title {
-  color: #333 !important; /* 将 #333 换成你想要的颜色代码 */
-}
-
-/* 去除鼠标悬停时的背景颜色变化 */
-.greedy-nav .site-title:hover {
-  background-color: transparent !important;
-  text-decoration: underline; /* 悬停时改为下划线提示（可选） */
-}
