@@ -25,20 +25,19 @@ redirect_from:
 代表论文
 ======
 完整论文列表见[Google学术主页](https://scholar.google.com/citations?user=UK-6A30AAAAJ&hl)或[ORCID主页](https://orcid.org/0000-0002-0286-7973)。
-- **Jianghong Wei**, Guohua Tian, Xiaofeng Chen, Willy Susilo. Lightweight 0-RTT Session Resumption Protocol for Constrained Devices. _IEEE Transactions on Information Forensics and Security_, 2025, 20: 221-233. (**CCF-A，中科院一区Top**)
 - **Jianghong Wei**, Guohua Tian, Ding Wang, Fuchun Guo, Willy Susilo, Xiaofeng Chen. Pixel+ and Pixel++: Compact and Efficient Forward-Secure Multi-Signatures for PoS Blockchain Consensus. _USENIX Security_ 2024, 2024, pp: 6237-6254. (**CCF-A类，四大安全顶会之一**)
+- **Jianghong Wei**, Guohua Tian, Xiaofeng Chen, Willy Susilo. Lightweight 0-RTT Session Resumption Protocol for Constrained Devices. _IEEE Transactions on Information Forensics and Security_, 2025, 20: 221-233. (**CCF-A，中科院一区Top**)
 - **Jianghong Wei**, Meixia Miao, Guohua Tian, Jun Shen, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Under Concurrent Queries. _IEEE Transactions on Mobile Computing_, 2024, 23(5): 5543-5557. (**CCF-A，中科院一区Top**)
 - **Jianghong Wei**, Xiaofeng Chen, Jianfeng Wang, Xinyi Huang, Willy Susilo. Securing Fine-Grained Data Sharing and Erasure in Outsourced Storage Systems. _IEEE Transactions on Parallel and Distributed Systems_, 2023, 34(2): 552-566. (**CCF-A，中科院一区Top**)
 - **Jianghong Wei**, Xiaofeng Chen, Jianfeng Wang, Xuexian Hu, Jianfeng Ma. Enabling (End-to-End) Encrypted Cloud Emails With Practical Forward Secrecy. _IEEE Transactions on Dependable and Secure Computing_, 2022, 19(4): 2318–2332. (**CCF-A，中科院一区Top**)
-- **Jianghong Wei**, Xiaofeng Chen, Jianfeng Ma, Xuexian Hu, Kui Ren. Communication-Efficient and Fine-Grained Forward-Secure Asynchronous Messaging. _IEEE/ACM Transactions on Networking_, 2021, 29(5): 2242–2253. (**CCF-A，中科院二区Top**)
+- **Jianghong Wei**, Xiaofeng Chen, Jianfeng Ma, Xuexian Hu, Kui Ren. Communication-Efficient and Fine-Grained Forward-Secure Asynchronous Messaging. _IEEE/ACM Transactions on Networking_, 2021, 29(5): 2242–2253. (**CCF-A，中科院二区**)
 - **Jianghong Wei**, Xiaofeng Chen, Xinyi Huang, Xuexian Hu, Willy Susilo. RS-HABE: Revocable-Storage and Hierarchical Attribute-Based Access Scheme for Secure Sharing of e-Health Records in Public Cloud. _IEEE Transactions on Dependable and Secure Computing_, 2021, 18 (5): 2301-2315. (**CCF-A，中科院一区Top**)
 -  **Jianghong Wei**, Xiaofeng Chen, Jianfeng Wang, Willy Susilo, Ilsun You. Towards Secure Asynchronous Messaging with Forward Secrecy and Mutual Authentication. _Information Sciences_, 2023, 626: 114-132. (**CCF-B，中科院一区Top**)
-- Yanmei Cao, Jianghong Wei, Xinyi Huang, Xiaofeng Chen, Yang Xiang. Deniable Identity-Ba.sed Matchmaking Encryption for Anonymous Messaging. _IEEE Transactions on Dependable and Secure Computing_, 2025, 22(3): 2197-2210. (CCF-A类期刊，中科院一区Top期刊)
-- Yamin Li, Jianghong Wei, Fuchun Guo, Willy Susilo, Xiaofeng Chen. Robust Decentralized Multi-client Functional Encryption: Motivation, Definition, and Inner-Product Constructions. Advances in Cryptology – ASIACRYPT 2023, 2023, pp: 134-165. (CACR-A类会议，三大密码会之一)
-- Yamin Li, Jianghong Wei, Fuchun Guo, Yang Xiang, Xiaofeng Chen. Function-Hiding Multi-Client Inner-Product Functional Encryption Without Pairings for Large Space. IEEE Transactions on Dependable and Secure Computing, 2025, 22(5): 5786-5797. (CCF-A类期刊，中科院一区Top期刊)
-- Guohua Tian, Jianghong Wei, Mirosław Kutyłowski, Willy Susilo, Xinyi Huang, Xiaofeng Chen. VRBC: A Verifiable Redactable Blockchain With Efficient Query and Integrity Auditing. IEEE Transactions on Computers. 2023, 72(7): 1928-1942. (CCF-A类期刊，中科院二区期刊)
-- Meixia Miao, Siqi Zhao, Jiawei Li, Jianghong Wei. Aggregatably Verifiable Data Streaming. IEEE Internet of Things Journal, 2024, 11(13): 24109 – 24122. (中科院一区Top期刊，通信作者)
-- 
+-  Yamin Li, **Jianghong Wei**, Fuchun Guo, Willy Susilo, Xiaofeng Chen. Robust Decentralized Multi-client Functional Encryption: Motivation, Definition, and Inner-Product Constructions. _Advances in Cryptology – ASIACRYPT_ 2023, 2023, pp: 134-165. (**CACR-A，三大密码会之一**)
+-  Yamin Li, **Jianghong Wei**, Fuchun Guo, Yang Xiang, Xiaofeng Chen. Function-Hiding Multi-Client Inner-Product Functional Encryption Without Pairings for Large Space. _IEEE Transactions on Dependable and Secure Computing_, 2025, 22(5): 5786-5797. (**CCF-A，中科院一区Top**)
+- Yanmei Cao, **Jianghong Wei**, Xinyi Huang, Xiaofeng Chen, Yang Xiang. Deniable Identity-Ba.sed Matchmaking Encryption for Anonymous Messaging. _IEEE Transactions on Dependable and Secure Computing_, 2025, 22(3): 2197-2210. (**CCF-A，中科院一区Top**)
+- Guohua Tian, **Jianghong Wei**, Mirosław Kutyłowski, Willy Susilo, Xinyi Huang, Xiaofeng Chen. VRBC: A Verifiable Redactable Blockchain With Efficient Query and Integrity Auditing. _IEEE Transactions on Computers_. 2023, 72(7): 1928-1942. (**CCF-A，中科院二区**)
+- Meixia Miao, Siqi Zhao, Jiawei Li, **Jianghong Wei**. Aggregatably Verifiable Data Streaming. _IEEE Internet of Things Journal_, 2024, 11(13): 24109-24122. (**中科院一区Top**)
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
