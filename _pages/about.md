@@ -25,8 +25,8 @@ redirect_from:
 代表论文
 ======
 完整论文列表见[Google学术主页](https://scholar.google.com/citations?user=UK-6A30AAAAJ&hl)或[ORCID主页](https://orcid.org/0000-0002-0286-7973)。
-- **Jianghong Wei**, Guohua Tian, Xiaofeng Chen, Willy Susilo. Lightweight 0-RTT Session Resumption Protocol for Constrained Devices. _IEEE Transactions on Information Forensics and Security_, 2025, 20: 221-233. (**CCF-A类期刊，中科院一区Top期刊**)
-- 软件工程
+- **Jianghong Wei**, Guohua Tian, Xiaofeng Chen, Willy Susilo. Lightweight 0-RTT Session Resumption Protocol for Constrained Devices. _IEEE Transactions on Information Forensics and Security_, 2025, 20: 221-233. (**CCF-A，中科院一区Top**)
+- **Jianghong Wei**, Guohua Tian, Ding Wang, Fuchun Guo, Willy Susilo, Xiaofeng Chen. Pixel+ and Pixel++: Compact and Efficient Forward-Secure Multi-Signatures for PoS Blockchain Consensus. _USENIX Security_ 2024, 2024, pp: 6237-6254. (**CCF-A类，四大安全顶会之一**)
 - 电子信息
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
