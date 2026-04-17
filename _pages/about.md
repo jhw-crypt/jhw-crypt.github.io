@@ -26,7 +26,9 @@ redirect_from:
 ======
 完整论文列表见[Google学术主页](https://scholar.google.com/citations?user=UK-6A30AAAAJ&hl)或[ORCID主页](https://orcid.org/0000-0002-0286-7973)。
 
+---
 bibliography: refs.bib
+---
 
 - 网络空间安全
 - 软件工程
