@@ -50,3 +50,8 @@
 .initial-content {
   margin-top: 0 !important;
 }
+/* 完全隐藏网页底部栏 */
+.page__footer, 
+.footer {
+  display: none !important;
+}
