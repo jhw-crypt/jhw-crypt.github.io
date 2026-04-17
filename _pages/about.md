@@ -24,7 +24,7 @@ redirect_from:
 
 代表论文
 ======
-完整论文列表见Google学术主页（https://scholar.google.com/citations?user=UK-6A30AAAAJ&hl）或ORCID主页（https://orcid.org/0000-0002-0286-7973）。
+完整论文列表见[Google学术主页](https://scholar.google.com/citations?user=UK-6A30AAAAJ&hl)或[ORCID主页](https://orcid.org/0000-0002-0286-7973)。
 @article{Wei22,
   author       = {Jianghong Wei and Xiaofeng Chen and Jianfeng Wang and Xingming Hu and Jianfeng Ma},
   title        = {Enabling (End-to-End) Encrypted Cloud Emails With Practical Forward Secrecy},
