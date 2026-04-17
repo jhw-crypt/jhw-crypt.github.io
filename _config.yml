@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "魏江宏"
  # pronouns         : # example: "she/her"  
- # bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "郑州"
   employer         : "信息工程大学"
   uri              : # URL
