@@ -65,3 +65,14 @@
 .footer {
   display: none !important;
 }
+/* 将左侧边栏头像从圆形改为方形 */
+.sidebar .author__avatar img {
+  border-radius: 0 !important; /* 0 表示完全直角 */
+  /* 如果你想要微小的圆角，比如像手机图标那样，可以改成 10% 或 8px */
+}
+
+/* 移除头像可能的边框（可选，根据你的审美决定） */
+.sidebar .author__avatar {
+  border: none !important;
+  padding: 0 !important;
+}
