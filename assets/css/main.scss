@@ -41,28 +41,38 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* --------------------------------------------------------------------------
+   强制去除 Site Title 的灰色方块背景
+   -------------------------------------------------------------------------- */
 
-/* 彻底清除 greedy-nav 中 site-title 的所有背景和装饰 */
-.greedy-nav .site-title, 
+/* 1. 针对链接本身及其伪元素进行深度清理 */
 .greedy-nav a.site-title,
-.greedy-nav .site-title:visited {
-    background: none !important;
+.greedy-nav a.site-title:visited,
+.greedy-nav a.site-title::before,
+.greedy-nav a.site-title::after {
+    background: transparent !important;
     background-color: transparent !important;
     box-shadow: none !important;
     border: none !important;
-    outline: none !important;
-    text-decoration: none !important; /* 去掉下划线 */
+    text-decoration: none !important;
 }
 
-/* 针对鼠标悬停状态（Hover）也要处理，否则鼠标一放上去背景可能又出来了 */
-.greedy-nav .site-title:hover,
+/* 2. 针对 Academic Pages 特有的特定类名进行清理 */
+/* 有时背景色其实是定义在包含块上的 */
+.masthead__inner .greedy-nav .site-title {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+/* 3. 处理鼠标悬停时的状态，防止变色 */
 .greedy-nav a.site-title:hover {
     background-color: transparent !important;
     background: none !important;
-    opacity: 0.8; /* 悬停时轻微变透明，作为点击反馈，不需要可删除 */
+    opacity: 0.8; /* 保持一点点击反馈 */
 }
-.greedy-nav .site-title::before, 
-.greedy-nav .site-title::after {
-    display: none !important;
-    background: none !important;
+
+/* 4. [极端情况补丁] 如果背景色依然存在，可能是 padding 撑开了父容器颜色 */
+/* 尝试减小 padding 并强制清除背景 */
+.greedy-nav {
+    background-color: transparent !important;
 }
