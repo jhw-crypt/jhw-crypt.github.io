@@ -37,7 +37,7 @@ redirect_from:
 -  Yamin Li, **Jianghong Wei**, Fuchun Guo, Yang Xiang, Xiaofeng Chen. Function-Hiding Multi-Client Inner-Product Functional Encryption Without Pairings for Large Space. _IEEE Transactions on Dependable and Secure Computing_, 2025, 22(5): 5786-5797. (**CCF-A，中科院一区Top**)
 - Yanmei Cao, **Jianghong Wei**, Xinyi Huang, Xiaofeng Chen, Yang Xiang. Deniable Identity-Ba.sed Matchmaking Encryption for Anonymous Messaging. _IEEE Transactions on Dependable and Secure Computing_, 2025, 22(3): 2197-2210. (**CCF-A，中科院一区Top**)
 - Guohua Tian, **Jianghong Wei**, Mirosław Kutyłowski, Willy Susilo, Xinyi Huang, Xiaofeng Chen. VRBC: A Verifiable Redactable Blockchain With Efficient Query and Integrity Auditing. _IEEE Transactions on Computers_. 2023, 72(7): 1928-1942. (**CCF-A，中科院二区**)
-- Meixia Miao, Siqi Zhao, Jiawei Li, **Jianghong Wei**. Aggregatably Verifiable Data Streaming. _IEEE Internet of Things Journal_, 2024, 11(13): 24109-24122. (**中科院一区Top**)
+- Meixia Miao, Siqi Zhao, Jiawei Li, **Jianghong Wei^#**. Aggregatably Verifiable Data Streaming. _IEEE Internet of Things Journal_, 2024, 11(13): 24109-24122. (**中科院一区Top**)
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
