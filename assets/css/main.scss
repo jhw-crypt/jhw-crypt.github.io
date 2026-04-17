@@ -42,21 +42,22 @@
     "vendor/font-awesome/brands"
 ;
 
-/* 强制去除顶部标题的所有背景颜色和阴影 */
-.masthead__inner .site-title,
-.masthead__inner .site-title:visited,
-.greedy-nav .site-title,
-.greedy-nav a.site-title {
-  background: none !important;
-  background-color: transparent !important;
-  box-shadow: none !important;
-  border: none !important;
-  padding-left: 0 !important; /* 可选：去掉左侧边距让文字靠最左 */
+/* 彻底清除 greedy-nav 中 site-title 的所有背景和装饰 */
+.greedy-nav .site-title, 
+.greedy-nav a.site-title,
+.greedy-nav .site-title:visited {
+    background: none !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+    border: none !important;
+    outline: none !important;
+    text-decoration: none !important; /* 去掉下划线 */
 }
 
-/* 针对鼠标悬停状态也做透明处理 */
-.masthead__inner .site-title:hover,
-.greedy-nav .site-title:hover {
-  background-color: transparent !important;
-  text-decoration: underline !important; /* 悬停时改为下划线（可选） */
+/* 针对鼠标悬停状态（Hover）也要处理，否则鼠标一放上去背景可能又出来了 */
+.greedy-nav .site-title:hover,
+.greedy-nav a.site-title:hover {
+    background-color: transparent !important;
+    background: none !important;
+    opacity: 0.8; /* 悬停时轻微变透明，作为点击反馈，不需要可删除 */
 }
