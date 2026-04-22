@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## 个人简介
-副教授，硕士研究生导师，2016年博士毕业于信息工程大学，获密码学博士学位。主要研究方向为应用密码学与隐私计算、数据安全与AI安全、云计算安全，先后主持国家自然科学基金面上项目、国家自然科学基金青年基金、河南省优秀青年科学基金、博士后特别资助项目等科研项目10余项，在USENIX Security、ASIACRYPT、IEEE TIFS、IEEE TDSC、IEEE TPDS等国际会议和期刊上发表学术论文100余篇，担任JSS的青年编委以及DSPP、CSS等多个国际会议的程序委员会委员。研究成果获河南省优秀学术论文二等奖、陕西省高校优秀成果二等奖等学术奖励7项。
+密码学专业博士，副教授，硕士研究生导师，2016年博士毕业于信息工程大学。主要研究方向为应用密码学与隐私计算、数据安全与AI安全、云计算安全，先后主持国家自然科学基金面上项目、国家自然科学基金青年基金、河南省优秀青年科学基金、博士后特别资助项目等科研项目10余项，在USENIX Security、ASIACRYPT、IEEE TIFS、IEEE TDSC、IEEE TPDS等国际会议和期刊上发表学术论文100余篇，担任JSS的青年编委以及DSPP、CSS等多个国际会议的程序委员会委员。研究成果获河南省优秀学术论文二等奖、陕西省高校优秀成果二等奖等学术奖励7项。
 
 
 ## 研究方向
@@ -31,8 +31,8 @@ redirect_from:
 
 ## 学术论文
 完整论文列表见[Google学术主页](https://scholar.google.com/citations?user=UK-6A30AAAAJ&hl)或[ORCID主页](https://orcid.org/0000-0002-0286-7973)。#表示通信作者。
-- **Jianghong Wei**, Guohua Tian, Ding Wang, Fuchun Guo, Willy Susilo, Xiaofeng Chen. Pixel+ and Pixel++: Compact and Efficient Forward-Secure Multi-Signatures for PoS Blockchain Consensus. _USENIX Security_ 2024, 2024, pp: 6237-6254. (**CCF-A，四大安全顶会之一**)
-- **Jianghong Wei**, Guohua Tian, Xiaofeng Chen, Willy Susilo. Lightweight 0-RTT Session Resumption Protocol for Constrained Devices. _IEEE Transactions on Information Forensics and Security_, 2025, 20: 221-233. (**CCF-A，中科院一区Top**)
+[1] **Jianghong Wei**, Guohua Tian, Ding Wang, Fuchun Guo, Willy Susilo, Xiaofeng Chen. Pixel+ and Pixel++: Compact and Efficient Forward-Secure Multi-Signatures for PoS Blockchain Consensus. _USENIX Security_ 2024, 2024, pp: 6237-6254. (**CCF-A，四大安全顶会之一**)
+[1] **Jianghong Wei**, Guohua Tian, Xiaofeng Chen, Willy Susilo. Lightweight 0-RTT Session Resumption Protocol for Constrained Devices. _IEEE Transactions on Information Forensics and Security_, 2025, 20: 221-233. (**CCF-A，中科院一区Top**)
 - **Jianghong Wei**, Meixia Miao, Guohua Tian, Jun Shen, Xiaofeng Chen, Willy Susilo. Optimal Verifiable Data Streaming Under Concurrent Queries. _IEEE Transactions on Mobile Computing_, 2024, 23(5): 5543-5557. (**CCF-A，中科院一区Top**)
 - **Jianghong Wei**, Xiaofeng Chen, Jianfeng Wang, Xinyi Huang, Willy Susilo. Securing Fine-Grained Data Sharing and Erasure in Outsourced Storage Systems. _IEEE Transactions on Parallel and Distributed Systems_, 2023, 34(2): 552-566. (**CCF-A，中科院一区Top**)
 - **Jianghong Wei**, Xiaofeng Chen, Jianfeng Wang, Xuexian Hu, Jianfeng Ma. Enabling (End-to-End) Encrypted Cloud Emails With Practical Forward Secrecy. _IEEE Transactions on Dependable and Secure Computing_, 2022, 19(4): 2318–2332. (**CCF-A，中科院一区Top**)
