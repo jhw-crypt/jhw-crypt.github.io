@@ -33,6 +33,8 @@ redirect_from:
 
 ## 学术论文
 完整论文列表见[Google学术主页](https://scholar.google.com/citations?user=UK-6A30AAAAJ&hl)或[ORCID主页](https://orcid.org/0000-0002-0286-7973)。#表示通信作者。
+<!DOCTYPE html>
+<html>
 <head>
 <style>
 .ref-list {
@@ -74,6 +76,7 @@ redirect_from:
   <li><strong>Jianghong Wei</strong>, Xiaofeng Chen, Jianfeng Ma, Xuexian Hu, Kui Ren. Communication-Efficient and Fine-Grained Forward-Secure Asynchronous Messaging. <em>IEEE/ACM Transactions on Networking</em>, 2021, 29(5): 2242–2253. (<strong>CCF-A，中科院二区</strong>)</li>
 </ul>
 </body>
+</html>
 
 ## 联系方式
 jhwei@xidian.edu.cn.
