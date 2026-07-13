@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "" 
+<head>
 <style>
 .refs {
   counter-reset: num;
@@ -18,6 +19,7 @@ title: ""
   left: -3em;
 }
 </style>
+  <head>
 author_profile: true
 redirect_from: 
   - /about/
