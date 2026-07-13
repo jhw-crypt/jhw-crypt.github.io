@@ -1,6 +1,23 @@
 ---
 permalink: /
 title: "" 
+<style>
+.refs {
+  counter-reset: num;
+  list-style: none;
+  padding-left: 3em;
+}
+.refs li {
+  position: relative;
+  margin: 0.5em 0;
+}
+.refs li::before {
+  counter-increment: num;
+  content: "[" counter(num) "]";
+  position: absolute;
+  left: -3em;
+}
+</style>
 author_profile: true
 redirect_from: 
   - /about/
@@ -33,23 +50,6 @@ redirect_from:
 
 ## 学术论文
 完整论文列表见[Google学术主页](https://scholar.google.com/citations?user=UK-6A30AAAAJ&hl)或[ORCID主页](https://orcid.org/0000-0002-0286-7973)。#表示通信作者。
-<style>
-.refs {
-  counter-reset: num;
-  list-style: none;
-  padding-left: 3em;
-}
-.refs li {
-  position: relative;
-  margin: 0.5em 0;
-}
-.refs li::before {
-  counter-increment: num;
-  content: "[" counter(num) "]";
-  position: absolute;
-  left: -3em;
-}
-</style>
 
 <ul class="refs">
   <li>Meixia Miao, Peihong Qiang, Siqi Zhao, Jiawei Li, Guohua Tian, <strong>Jianghong Wei<sup>#</sup></strong>. Verifiable Data Streaming Protocol Supporting Keyword Queries. <em>IEEE Transactions on Network and Service Management</em>, 2026, 23: 287-298. (<strong>中科院二区</strong>)</li>
