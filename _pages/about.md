@@ -1,25 +1,6 @@
 ---
 permalink: /
 title: "" 
-<head>
-<style>
-.refs {
-  counter-reset: num;
-  list-style: none;
-  padding-left: 3em;
-}
-.refs li {
-  position: relative;
-  margin: 0.5em 0;
-}
-.refs li::before {
-  counter-increment: num;
-  content: "[" counter(num) "]";
-  position: absolute;
-  left: -3em;
-}
-</style>
-  <head>
 author_profile: true
 redirect_from: 
   - /about/
