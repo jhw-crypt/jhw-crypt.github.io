@@ -33,7 +33,8 @@ redirect_from:
 
 ## 学术论文
 完整论文列表见[Google学术主页](https://scholar.google.com/citations?user=UK-6A30AAAAJ&hl)或[ORCID主页](https://orcid.org/0000-0002-0286-7973)。#表示通信作者。
-- Meixia Miao, Peihong Qiang, Siqi Zhao, Jiawei Li, Guohua Tian, **Jianghong Wei<sup>#</sup>**. Verifiable Data Streaming Protocol Supporting Keyword Queries. _IEEE Transactions on Network and Service Management_, 2026, 23: 287-298. (**中科院二区**)
+<ol>
+<li>Meixia Miao, Peihong Qiang, Siqi Zhao, Jiawei Li, Guohua Tian, **Jianghong Wei<sup>#</sup>**. Verifiable Data Streaming Protocol Supporting Keyword Queries. _IEEE Transactions on Network and Service Management_, 2026, 23: 287-298. (**中科院二区**)</li>
 - Guohua Tian, Meixia Miao, **Jianghong Wei**, Zheli Liu, Liang Guo, Xiaofeng Chen. Verifiable and Controllable Data Sharing with Compliance Checking in Cloud Computing. _IEEE Transactions on Dependable and Secure Computing_, 2026, 23(2): 3949-3961. (**CCF-A，中科院一区Top**)
 - **Jianghong Wei**, Guohua Tian, Xiaofeng Chen, Willy Susilo. Lightweight 0-RTT Session Resumption Protocol for Constrained Devices. _IEEE Transactions on Information Forensics and Security_, 2025, 20: 221-233. (**CCF-A，中科院一区Top**)
 - Yamin Li, **Jianghong Wei**, Fuchun Guo, Yang Xiang, Xiaofeng Chen. Function-Hiding Multi-Client Inner-Product Functional Encryption Without Pairings for Large Space. _IEEE Transactions on Dependable and Secure Computing_, 2025, 22(5): 5786-5797. (**CCF-A，中科院一区Top**)
@@ -50,7 +51,6 @@ redirect_from:
 - **Jianghong Wei**, Xiaofeng Chen, Xinyi Huang, Xuexian Hu, Willy Susilo. RS-HABE: Revocable-Storage and Hierarchical Attribute-Based Access Scheme for Secure Sharing of e-Health Records in Public Cloud. _IEEE Transactions on Dependable and Secure Computing_, 2021, 18 (5): 2301-2315. (**CCF-A，中科院一区Top**)
 - Guohua Tian, Yunhan Hu, **Jianghong Wei**, Zheli Liu, Xinyi Huang, Xiaofeng Chen, Willy Susilo. Blockchain-Based Secure Deduplication and Shared Auditing in Decentralized Storage. _IEEE Transactions on Dependable and Secure Computing_, 2022, 19(6): 3941-3954. (**CCF-A，中科院一区Top**)
 - **Jianghong Wei**, Xiaofeng Chen, Jianfeng Ma, Xuexian Hu, Kui Ren. Communication-Efficient and Fine-Grained Forward-Secure Asynchronous Messaging. _IEEE/ACM Transactions on Networking_, 2021, 29(5): 2242–2253. (**CCF-A，中科院二区**)
-
-
+  </ol>
 ## 联系方式
 jhwei@xidian.edu.cn.
