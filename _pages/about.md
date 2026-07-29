@@ -37,6 +37,8 @@ redirect_from:
 ## 学术论文
 完整论文列表见[Google学术主页](https://scholar.google.com/citations?user=UK-6A30AAAAJ&hl)或[ORCID主页](https://orcid.org/0000-0002-0286-7973)。#表示通信作者。
 <ol>
+  <li>Dongmei Yang, Yang Ba, Xuexian Hu, <strong>Jianghong Wei<sup>#</sup></strong>. Forward-Secure Tag-Inverse Puncturable Identity-Based Encryption. <em>31st Australasian Conference on Information Security and Privacy--ACISP 2026</em>, 2026, pp: 242-262. (<strong>CCF-C</strong>)</li>
+  <li>Yongkang Lang, Fangguo Zhang, <strong>Jianghong Wei</strong>, Xinyi Huang, Xiaofeng Chen. Batch-Puncturing Circuit CP-ABE (and More) from Lattices. <em>31st Australasian Conference on Information Security and Privacy--ACISP 2026</em>, 2026, pp: 222–241. (<strong>CCF-C</strong>)</li>
   <li>Meixia Miao, Peihong Qiang, Siqi Zhao, Jiawei Li, Guohua Tian, <strong>Jianghong Wei<sup>#</sup></strong>. Verifiable Data Streaming Protocol Supporting Keyword Queries. <em>IEEE Transactions on Network and Service Management</em>, 2026, 23: 287-298. (<strong>中科院二区</strong>)</li>
   <li>Guohua Tian, Meixia Miao, <strong>Jianghong Wei</strong>, Zheli Liu, Liang Guo, Xiaofeng Chen. Verifiable and Controllable Data Sharing with Compliance Checking in Cloud Computing. <em>IEEE Transactions on Dependable and Secure Computing</em>, 2026, 23(2): 3949-3961. (<strong>CCF-A，中科院一区Top</strong>)</li>
   <li><strong>Jianghong Wei</strong>, Guohua Tian, Xiaofeng Chen, Willy Susilo. Lightweight 0-RTT Session Resumption Protocol for Constrained Devices. <em>IEEE Transactions on Information Forensics and Security</em>, 2025, 20: 221-233. (<strong>CCF-A，中科院一区Top</strong>)</li>
