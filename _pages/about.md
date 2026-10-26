@@ -37,6 +37,7 @@ redirect_from:
 ## 学术论文
 完整论文列表见[Google学术主页](https://scholar.google.com/citations?user=UK-6A30AAAAJ&hl)或[ORCID主页](https://orcid.org/0000-0002-0286-7973)。#表示通信作者。
 <ol>
+  <li>Xuexuan Hao, <strong>Jianghong Wei</strong>, Jie Chen, Zheli Liu, Xiaofeng Chen. Short Time-Lock Puzzles with Security against Adaptive Chosen-Solution-and-Puzzle Attacks. <em>Information and Computation</em>, 2026, 313: 105539. (<strong>CCF-A</strong>)</li>
   <li>Arthur Sandor Voundi Koe, <strong>Jianghong Wei</strong>, Xiaofeng Chen. Decentralized and Lightweight Server-Aided Revocable Attribute-Based Encryption for Mobile Cloud Computing. <em>IEEE Transactions on Dependable and Secure Computing</em>, 2026, 23(5): 9918-9933. (<strong>CCF-A，中科院一区Top</strong>)</li>
   <li>Yanmei Cao, Pengyu Gao, Jingwei Hu, Meixia Miao, <strong>Jianghong Wei<sup>#</sup></strong>, Huaxiong Wang. Efficient Fully Deniable Public-Key Encryption from Hidden-Position Key Encapsulation. <em>Theoretical Computer Science</em>, 2026, 1086: 116225. (<strong>CCF-B</strong>)</li>
   <li> Dongmei Yang, Yang Ba, Xuexian Hu, <strong>Jianghong Wei<sup>#</sup></strong>. Forward-Secure Tag-Inverse Puncturable Identity-Based Encryption. <em>31st Australasian Conference on Information Security and Privacy – ACISP 2026</em>, 2026, pp: 242-262. (<strong>CCF-C</strong>)</li>
